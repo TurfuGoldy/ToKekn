@@ -1,6 +1,8 @@
 <h1 align="center">ToKekn</h1>
 <p align="center">
 An Advanced Token Checker
+</p>
+<p align="center">
 <img src="https://img.shields.io/github/license/TurfuGoldy/ToKekn">
 <img src="https://img.shields.io/github/downloads/TurfuGoldy/ToKekn/total">
 <img src="https://img.shields.io/github/stars/TurfuGoldy/ToKekn">
