@@ -18,7 +18,6 @@ An Advanced Token Checker
 
 -----
 
-<h1 align="center">Features</h1>
 - [X] **Multithreaded with Insane Speed**
 - [X] **Togglable Capture: ID, Username, Account Creation Date, Email, Phone, Payment Sources, Nitro Status, Badges, MFA, Locale, Bio**
 - [X] **Advanced Results Sorting**
