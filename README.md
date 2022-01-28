@@ -9,6 +9,10 @@ An Advanced Token Checker
 <img src="https://img.shields.io/github/forks/TurfuGoldy/ToKekn">
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/FA5MDQP.gif">
+</p>
+
 -----
 
 - [X] **Multithreaded with Insane Speed**
@@ -16,13 +20,6 @@ An Advanced Token Checker
 - [X] **Advanced Results Sorting**
 - [X] **Togglable Token Censor in Console**
 - [X] **100% Humanised Requests**
-
------
-
-<h1 align="center">Showcase</h1>
-<p align="center">
-  <img src="https://i.imgur.com/FA5MDQP.gif">
-</p>
 
 -----
 
