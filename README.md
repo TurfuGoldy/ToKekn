@@ -24,4 +24,6 @@ An Advanced Token Checker
 -----
 
 <h1 align="center">Installation</h1>
-> pip install -r requirements.txt
+```
+~# pip install -r requirements.txt
+```
