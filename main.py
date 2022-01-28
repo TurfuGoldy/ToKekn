@@ -26,11 +26,11 @@ class Tokekn:
     def title(self, title):
         if os.name == "nt":
             ctypes.windll.kernel32.SetConsoleTitleW(
-                f"ToKekn | An Advanced Token Checker | {title}"
+                f"ToKekn | An Advanced Discord Token Checker | {title}"
             )
         else:
             print(
-                f"\33]0;ToKekn | An Advanced Token Checker | {title}\a",
+                f"\33]0;ToKekn | An Advanced Discord Token Checker | {title}\a",
                 end="",
                 flush=True,
             )
